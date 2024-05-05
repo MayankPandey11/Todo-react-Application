@@ -16,6 +16,8 @@ Mark todos as completed.
 Filter todos based on their completion status.
 Store todos in Redux store for state management.
 
+## 📌 **Live Site URL:** <a href="https://todo-react-redux-application.netlify.app/">**Visit Now** 🚀</a>
+
 ## Prerequisites
 Node.js installed on your machine.
 Basic understanding of React and Redux.
